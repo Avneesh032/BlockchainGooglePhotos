@@ -10,5 +10,18 @@ npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
+
+
+
+
+// # steps to start.
+
+1) npm install
+2) cd client 
+3) npm install
+4)  npm i react@latest react-dom@latest
+5) npm start.
+
+good to go enjoy your own personalised google drive made purely on blockchain.
 ```
 # BlockchainGooglePhotos
